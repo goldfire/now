@@ -12,7 +12,7 @@
     "node": ">= v0.4.0"
   },
   "dependencies": {
-    "socket.io": ">= 0.8.7",
+    "socket.io": "0.9.*",
     "node-proxy": ">= 0.4.0"
 },
   "devDependencies": {}
